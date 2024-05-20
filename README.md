@@ -3,7 +3,6 @@ Có gì thắc mắc liên hệ Vũ sđt:0394025628
 - Node.js
 - MongoDB
 - Mongoose
-- This code has following routes:
   - [Auth]
     - Login: `[POST] - /api/auth/login` 
     - Signup: `[POST] - /api/auth/signup`
