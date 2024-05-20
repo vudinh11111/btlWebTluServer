@@ -1,6 +1,8 @@
 Có gì thắc mắc liên hệ Vũ sđt:03940256**
  
-[Run]:npm start
+[Run]:
+npm install
+npm start
 
 - Express.js
 - Node.js
